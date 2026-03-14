@@ -1,0 +1,17 @@
+name: Secure-by-Design
+description: A software development approach that prioritizes security from the initial
+  design phase through implementation, ensuring security considerations are built
+  into the foundation of systems rather than added as an afterthought. It is widely
+  adopted across industries to safeguard digital assets and reduce security risks.
+url: https://www.cisa.gov/securebydesign
+tags:
+- Security
+- Software Development
+- Design Principles
+- Cybersecurity
+- Best Practices
+- Architecture
+created: '2025'
+modified: '2025'
+apis: []
+common: []
