@@ -10,5 +10,8 @@ tags:
   - Software Development
 created: '2025'
 modified: '2025'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/secure-by-design
 apis: []
 common: []
