@@ -1,3 +1,15 @@
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/secure-by-design.png
 name: Secure-By-Design
 description: A software development approach that prioritizes security from the initial design phase through implementation, ensuring security considerations are built into the foundation of systems rather than added as an afterthought. It is widely adopted across industries to safeguard digital assets and reduce security risks.
 url: https://www.cisa.gov/securebydesign
